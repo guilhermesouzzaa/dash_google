@@ -8,9 +8,11 @@ Além disso, por ser baseado em Python, o Dash proporciona uma personalização 
 ## 🔧 Objetivo
 
 - Obter um dashboard funcional através do dash
+- 
 
 ## 💻 Projeto
 O projeto foi desenvolvido integralmente em Python, com o objetivo de gerar um dashboar funcional para acompanhamento das ações do google. 
+
 
 ## 👨‍💻 Tecnologias Utilizadas
 
